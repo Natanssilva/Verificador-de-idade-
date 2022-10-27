@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: linear-gradient(to bottom,#FA0047,#515154);
+    background-attachment: fixed;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    color: white;
+    text-align: center;
+    margin: 5%;
+}
+
+section{
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px ;
+    margin: 15px  auto;
+    min-width: 320px;
+    max-width: 420px;
+    height: 300px;
+    min-height: 200px;
+
+    box-shadow: 5px 5px 10px 5px rgba(0, 0, 0, 0.329);
+}
+
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
