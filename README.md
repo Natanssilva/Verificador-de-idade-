@@ -3,7 +3,7 @@ Verificador de idade com imagens dinâmicas em Javascript
 
 ## 📹 Apresentação do projeto
 <div align="center">
-  <video src="https://user-images.githubusercontent.com/99294586/197878776-1683e22f-39d7-4663-adf4-d91c187f7950.mp4" >
+  <video src="https://user-images.githubusercontent.com/99294586/198349910-525e5d99-06f8-41a3-8700-2ba5fbbe4a20.mp4" >
 </div>
 
 > Acesse o projeto online **[AQUI](https://ageverify1.netlify.app/)**
